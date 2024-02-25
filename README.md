@@ -11,5 +11,5 @@ This project was deployed at [4th-ZezO_Template-Z3](https://asdmnf.github.io/4th
 * BOOTSTRAP
 
 ### `Property`
-El-Zero Template.\
-> but not identical, i always try to apply idea before watching it.
+El-Zero Template.
+> not identical, i always try to apply idea before watching it.
